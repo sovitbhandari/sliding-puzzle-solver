@@ -3,7 +3,7 @@ import json
 import time
 
 studentName = "studentName"
-studentFile = "hw1.py"
+studentFile = "slider_solver.py"
 
 assignmentName = "assignmentName"
 gradedFunctionName = "solveSlider"
